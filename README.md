@@ -7,7 +7,7 @@ This project allows you to upload multiple PDF files and ask questions based on 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/akshatt123/Multiple-pDF-Chat.git
+   git clone https://github.com/akshatt123/Multiple-PDF-Chat.git
    cd Multiple-PDF-Chat
    ```
 
