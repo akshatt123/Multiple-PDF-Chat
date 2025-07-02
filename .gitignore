@@ -28,4 +28,7 @@ faiss_index/*
 *.log
 *.cache/
 
+#containers
+.devcontainer/
+*.devcontainer/
 
